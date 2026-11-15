@@ -62,16 +62,15 @@ All four prescribed test cases were executed and verified in a single continuous
 ![Test Case 2](screenshotsgit/test2.jpeg)
 
 ### Test Case 3 (Invalid Input)
-`Butter: 2` and `Milk: 50` → Verified graceful error handling (`Item 'Butter' not found in inventory.` and `Insufficient stock for Milk. Available: 37`). No bill was generated since the cart was empty.
+`Butter: 2` and `Milk: 50` → Verified graceful error handling (`Item 'Butter' not found in inventory.` and `Insufficient stock for Milk. Available: 40`). No bill was generated since the cart was empty.
 
 ![Test Case 3](screenshotsgit/test3.jpeg)
 
 ### Test Case 4 (Stock Deduction)
-`Sugar: 10`, `Milk: 5` → Verified `Total: Rs. 630.00` and confirmed the remaining stock displays `Rice: 90 | Sugar: 40 | Milk: 32 | Oil: 16`.
+`Sugar: 10`, `Milk: 5` → Verified `Total: Rs. 630.00` and confirmed the remaining stock displays `Rice: 100 | Sugar: 40 | Milk: 35 | Oil: 20`.
 
 ![Test Case 4 - Bill](screenshotsgit/test4.jpeg)
 
-![Test Case 4 - Stock after sales](screenshotsgit/test5.jpeg)
 
 ---
 
