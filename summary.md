@@ -52,8 +52,8 @@ The application manages four core grocery products with predefined unit prices a
 All four prescribed test cases were executed and verified:
 * **Test Case 1 (Normal Input):** `Rice: 2`, `Milk: 3` $\rightarrow$ Verified `Subtotal: 190.00`, `Discount: 0.00`, `GST (5%): 9.50`, `Total: Rs. 199.50`.
 * **Test Case 2 (Boundary Input):** `Oil: 4`, `Rice: 8` $\rightarrow$ Verified exact `Subtotal: 1000.00` triggers `Discount (10%): 100.00`, `GST (5%): 45.00`, `Total: Rs. 945.00`.
-* **Test Case 3 (Invalid Input):** `Butter: 2` and `Milk: 50` $\rightarrow$ Verified graceful error handling (`Item 'Butter' not found in inventory.` and `Insufficient stock for Milk. Available: 40`).
-* **Test Case 4 (Stock Deduction):** `Sugar: 10`, `Milk: 5` $\rightarrow$ Verified `Total: Rs. 630.00` and confirmed remaining stock displays `Rice: 100 | Sugar: 40 | Milk: 35 | Oil: 20`.
+* **Test Case 3 (Invalid Input):** `Butter: 2` and `Milk: 50` $\rightarrow$ Verified graceful error handling (`Item 'Butter' not found in inventory.` and `Insufficient stock for Milk. Available: 37`).
+* **Test Case 4 (Stock Deduction):** `Sugar: 10`, `Milk: 5` $\rightarrow$ Verified `Total: Rs. 630.00` and confirmed remaining stock displays `Rice: 90 | Sugar: 40 | Milk: 32 | Oil: 16`.
 
 ---
 
