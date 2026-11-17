@@ -37,7 +37,7 @@ A console-based billing and inventory management application built in **Python 3
 ## How to Run
 
 ### Requirements
-* **Python 3.6 or above** (download from [python.org](https://www.python.org/downloads/)).
+* **Python 3 ** (download from [python.org](https://www.python.org/downloads/)).
 * **No external libraries are needed.** The project uses only built-in Python features, so there is nothing to `pip install`.
 
 ### Steps
@@ -129,7 +129,3 @@ GST (5%): 30.00 | Total: Rs. 630.00
 Rice: 100 | Sugar: 40 | Milk: 35 | Oil: 20
 ```
 
-### Screenshots
-<!-- Save your screenshots in a "screenshots" folder, then uncomment and edit: -->
-<!-- ![Menu](screenshots/menu.png) -->
-<!-- ![Bill](screenshots/bill.png) -->
