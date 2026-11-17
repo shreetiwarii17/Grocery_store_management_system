@@ -60,6 +60,20 @@ All four test cases were executed (each as a fresh run of the program) and verif
 The resulting `bills.txt` contains one bill for each of Test Cases 1, 2 and 4 (Test Case 3 generates no bill), and `stock.txt` shows the stock after Test Case 4.
 
 ---
+## 6. Screenshots
+### Test Case 1: Normal Input
+![Test Case 1](screenshots/test1.jpg)
 
-## 6. Conclusion
+### Test Case 2: Boundary Input
+![Test Case 2](screenshots/test2.jpg)
+
+### Test Case 3: Invalid Input
+![Test Case 3](screenshots/test3.jpg)
+
+### Test Case 4: Stock Deduction
+![Test Case 4](screenshots/test4.jpg)
+
+---
+
+## 7.Conclusion
 The **Grocery Store Management System** fulfills all functional and technical requirements of Problem Statement No. 72. By combining Python dictionaries, lists, conditional validation, and text-file storage, the application reduces manual billing errors and provides a reliable, lightweight point-of-sale solution.
