@@ -62,16 +62,16 @@ The resulting `bills.txt` contains one bill for each of Test Cases 1, 2 and 4 (T
 ---
 ## 6. Screenshots
 ### Test Case 1: Normal Input
-![Test Case 1](screenshots/test1.jpg)
+![Test Case 1](screenshotsgit/test1.jpg)
 
 ### Test Case 2: Boundary Input
-![Test Case 2](screenshots/test2.jpg)
+![Test Case 2](screenshotsgit/test2.jpg)
 
 ### Test Case 3: Invalid Input
-![Test Case 3](screenshots/test3.jpg)
+![Test Case 3](screenshotsgit/test3.jpg)
 
 ### Test Case 4: Stock Deduction
-![Test Case 4](screenshots/test4.jpg)
+![Test Case 4](screenshotsgit/test4.jpg)
 
 ---
 
