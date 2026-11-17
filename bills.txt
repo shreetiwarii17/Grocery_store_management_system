@@ -1,25 +1,3 @@
------ BILL -----
-Rice: 100 x 50.00 = 5000.00
-Subtotal: 5000.00 | Discount: 500.00
-GST (5%): 225.00 | Total: Rs. 4725.00
-
-
-========== GROCERY BILL ==========
-Subtotal: Rs. 0
-Discount: Rs. 0
-GST: Rs. 0.0
-Final Amount: Rs. 0.0
-==================================
-Rice x 2 = 100.00
-Milk x 3 = 90.00
-Subtotal: 190.00 | Discount: 0.00
-GST (5%): 9.50 | Total: Rs. 199.50
-
-Oil x 4 = 600.00
-Rice x 8 = 400.00
-Subtotal: 1000.00 | Discount: 100.00
-GST (5%): 45.00 | Total: Rs. 945.00
-
 Rice x 2 = 100.00
 Milk x 3 = 90.00
 Subtotal: 190.00 | Discount: 0.00
